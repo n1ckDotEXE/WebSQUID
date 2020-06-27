@@ -1,0 +1,23 @@
+{
+  "name": "websquid",
+  "version": "1.0.0",
+  "description": "websquid",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n1ckDotEXE/WebSQUID.git"
+  },
+  "author": "n1ckDotEXE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n1ckDotEXE/WebSQUID/issues"
+  },
+  "homepage": "https://github.com/n1ckDotEXE/WebSQUID#readme",
+  "devDependencies": {
+    "electron": "^9.0.5"
+  }
+}
